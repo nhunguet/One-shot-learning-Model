@@ -1,6 +1,5 @@
 # Paper1
-This is coding using model one shot learning for classification problem.
+This is coding using model-one-shot learning for classification problems.
 The steps:
-- Collect data
-- Make the model
-- 
+Collect data
+Train and Test Model
